@@ -1,0 +1,48 @@
+* {
+    background-color: #3CB371;
+}
+
+.container {
+    padding-top: 300px;
+    height: 300px;
+    width: 100%;
+}
+
+#display {
+    width: 100%;
+    font-size: 72px;
+    text-align: center;
+    margin: 0px auto;
+    color: 	#FF4500;
+}
+
+.buttons {
+    /* display: block; */
+    /* width: 10%; */
+    /* border: none; */
+    /* background-color: #04AA6D;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer; */
+    text-align: center;
+}
+
+#startStop {
+    width: 10%;
+    border: none;
+    background-color:#FF4500;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+#reset {
+    width: 10%;
+    border: none;
+    background-color:#FF4500;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
